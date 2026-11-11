@@ -13,7 +13,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de pá
 ## Cómo usar este curso
 
 1. Mira el video de cada lección en orden.
-2. Cuando el video te pida pausar, abre el enlace de **Práctica**: el código ya está cargado en CodePen.
+2. Cuando el video te pida pausar, abre el enlace de **Práctica**: el código ya está cargado en JSFiddle.
 3. Escribe, cambia y prueba. El resultado aparece al instante en la misma pantalla.
 4. Si te quedas atascado, compara tu código con la carpeta `completed-examples` de esa lección.
 
@@ -23,37 +23,37 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de pá
 - **Descripción:** Descubre de qué están hechas las páginas web que usas todos los días y qué papel cumplen HTML y CSS.
 - **Enlace:** [Ver la lección](URL_VIDEO_LECCION_1)
 - **Conclusiones clave:** Página web = Contenido (HTML) + Estilo (CSS). El navegador lee ese código y lo convierte en lo que ves.
-- **Práctica:** [Explorar una página](URL_CODEPEN_LECCION_1) 👈 **¡Inicio inmediato!**
+- **Práctica:** [Explorar una página](https://jsfiddle.net/) 👈 **¡Inicio inmediato!**
 
 ### Lección 2: Tu primera página HTML (10 minutos)
 - **Descripción:** Aprende qué son las etiquetas, los elementos y los atributos, y crea tu primera página con un título y una presentación.
 - **Enlace:** [Ver la lección](https://youtu.be/7ciLQob0Ebo)
 - **Conclusiones clave:** Toda página tiene la misma base: `<!DOCTYPE html>`, `<html>`, `<head>`, `<title>` y `<body>`. Usa `<h1>` para el título y `<p>` para los párrafos.
-- **Práctica:** [Clic para programar](URL_CODEPEN_LECCION_2) 👈 **¡No necesitas registrarte!**
+- **Práctica:** [Clic para programar](https://jsfiddle.net/) 👈 **¡No necesitas registrarte!**
 
 ### Lección 3: Agrega contenido a tu página (10 minutos)
 - **Descripción:** Agrega subtítulos, listas, imágenes y enlaces para que tu página tenga más información.
 - **Enlace:** [Ver la lección](URL_VIDEO_LECCION_3)
 - **Conclusiones clave:** `<h2>` para subtítulos, `<ul>` y `<li>` para listas, `<img src="..." alt="...">` para imágenes y `<a href="...">` para enlaces. El atributo `alt` describe la imagen para quien no puede verla.
-- **Práctica:** [Clic para programar](URL_CODEPEN_LECCION_3) 👈 **¡Inicio inmediato!**
+- **Práctica:** [Clic para programar](https://jsfiddle.net/) 👈 **¡Inicio inmediato!**
 
 ### Lección 4: Introducción a CSS (12 minutos)
 - **Descripción:** Dale estilo a tu página con colores, fuentes, bordes y espacios.
 - **Enlace:** [Ver la lección](URL_VIDEO_LECCION_4)
 - **Conclusiones clave:** Una regla CSS tiene selector, propiedad y valor: `h1 { color: purple; }`. Conecta tu archivo de estilos con `<link rel="stylesheet" href="styles.css">`.
-- **Práctica:** [Aplicar estilo con un clic](URL_CODEPEN_LECCION_4) 👈 **¡No necesitas registrarte!**
+- **Práctica:** [Aplicar estilo con un clic](https://jsfiddle.net/) 👈 **¡No necesitas registrarte!**
 
 ### Lección 5: Crea tu página de perfil personal (15 minutos)
 - **Descripción:** Junta todo lo aprendido y construye una página de perfil con tu presentación, tus pasatiempos, una imagen y un enlace.
 - **Enlace:** [Ver la lección](URL_VIDEO_LECCION_5)
 - **Conclusiones clave:** Primero organiza el contenido con HTML y después dale estilo con CSS. Guarda tus cambios y revisa el resultado después de cada paso.
-- **Proyecto final:** [Crea tu perfil](URL_CODEPEN_LECCION_5) 👈 **¡Guárdalo y compártelo!**
+- **Proyecto final:** [Crea tu perfil](https://jsfiddle.net/) 👈 **¡Guárdalo y compártelo!**
 
 ### Lección 6: Consejos y errores comunes (8 minutos)
 - **Descripción:** Aprende a encontrar y corregir los errores más comunes de principiantes, y descubre dónde seguir aprendiendo.
 - **Enlace:** [Ver la lección](URL_VIDEO_LECCION_6)
 - **Consejos clave:** Cierra cada etiqueta que abres, revisa que cada regla CSS tenga sus llaves `{ }` y su punto y coma `;`, y valida tu código en https://validator.w3.org/. Sigue aprendiendo en MDN Web Docs.
-- **Práctica:** [Corrige los errores](URL_CODEPEN_LECCION_6) 👈 **¡Inicio inmediato!**
+- **Práctica:** [Corrige los errores](https://jsfiddle.net/) 👈 **¡Inicio inmediato!**
 
 ## Recursos adicionales
 
@@ -62,12 +62,12 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de pá
 
 | Número de lección | Actividad | Empezar a programar |
 | :---------------: | :-------- | :------------------ |
-| 1 | Explorar una página web | [CodePen](URL_CODEPEN_LECCION_1) |
-| 2 | Primera página HTML | [CodePen](URL_CODEPEN_LECCION_2) |
-| 3 | Listas, imágenes y enlaces | [CodePen](URL_CODEPEN_LECCION_3) |
-| 4 | Estilos con CSS | [CodePen](URL_CODEPEN_LECCION_4) |
-| 5 | Página de perfil personal | [CodePen](URL_CODEPEN_LECCION_5) |
-| 6 | Corregir errores comunes | [CodePen](URL_CODEPEN_LECCION_6) |
+| 1 | Explorar una página web | [JSFiddle](https://jsfiddle.net/) |
+| 2 | Primera página HTML | [JSFiddle](https://jsfiddle.net/) |
+| 3 | Listas, imágenes y enlaces | [JSFiddle](https://jsfiddle.net/) |
+| 4 | Estilos con CSS | [JSFiddle](https://jsfiddle.net/) |
+| 5 | Página de perfil personal | [JSFiddle](https://jsfiddle.net/) |
+| 6 | Corregir errores comunes | [JSFiddle](https://jsfiddle.net/) |
 
 - **Documentación de HTML:** https://developer.mozilla.org/es/docs/Web/HTML
 - **Documentación de CSS:** https://developer.mozilla.org/es/docs/Web/CSS
@@ -79,7 +79,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de pá
 
 | Carpeta | Contenido |
 | :------ | :-------- |
-| `starter-files/` | Código inicial de cada lección, el mismo que se abre en CodePen. |
+| `starter-files/` | Código inicial de cada lección, el mismo que se abre en JSFiddle. |
 | `completed-examples/` | Código terminado de cada lección, para comparar tu resultado. |
 | `scripts/` | Guion de narración de cada video. |
 

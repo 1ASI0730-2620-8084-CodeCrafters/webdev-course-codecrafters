@@ -20,42 +20,42 @@ Este curso de aproximadamente una hora introduce a estudiantes de secundaria a l
 - **Conceptos clave:** HTML organiza el contenido; CSS define la presentación visual.
 - **Actividad:** observar una página e identificar títulos, textos, imágenes y estilos.
 - **Video:** PENDIENTE — insertar URL real del video no listado de YouTube.
-- **Empieza a practicar:** PENDIENTE — insertar enlace directo al editor en línea con la práctica precargada.
+- **Empieza a practicar:** https://jsfiddle.net/
 
 ### Lección 2: Tu primera página HTML (10 minutos)
 - **Descripción:** crea la estructura básica de un documento HTML.
 - **Conceptos clave:** `<!DOCTYPE html>`, `html`, `head`, `title`, `body`, `h1` y `p`.
 - **Actividad:** crear una página con un título y una presentación personal.
 - **Video:** https://youtu.be/7ciLQob0Ebo
-- **Empieza a practicar:** PENDIENTE — insertar enlace directo al editor en línea con la práctica precargada.
+- **Empieza a practicar:** https://jsfiddle.net/
 
 ### Lección 3: Agrega contenido a tu página (10 minutos)
 - **Descripción:** incorpora encabezados, listas, imágenes y enlaces.
 - **Conceptos clave:** `h2`, `ul`, `li`, `img`, `src`, `alt`, `a` y `href`.
 - **Actividad:** agregar una lista de pasatiempos, una imagen y un enlace.
 - **Video:** PENDIENTE — insertar URL real del video no listado de YouTube.
-- **Empieza a practicar:** PENDIENTE — insertar enlace directo al editor en línea con la práctica precargada.
+- **Empieza a practicar:** https://jsfiddle.net/
 
 ### Lección 4: Introducción a CSS y estilos sencillos (12 minutos)
 - **Descripción:** personaliza la página mediante reglas CSS.
 - **Conceptos clave:** selectores, propiedades, valores, colores, fuentes, fondo, bordes y espaciado.
 - **Actividad:** cambiar colores, tipografía y bordes de la página.
 - **Video:** PENDIENTE — insertar URL real del video no listado de YouTube.
-- **Empieza a practicar:** PENDIENTE — insertar enlace directo al editor en línea con la práctica precargada.
+- **Empieza a practicar:** https://jsfiddle.net/
 
 ### Lección 5: Crea una página de perfil personal (15 minutos)
 - **Descripción:** combina HTML y CSS para construir una página personal sencilla.
 - **Conceptos clave:** integración de estructura, contenido y estilos.
 - **Actividad / proyecto final:** crear un perfil con presentación, pasatiempos, imagen y enlace.
 - **Video:** PENDIENTE — insertar URL real del video no listado de YouTube.
-- **Empieza a practicar:** PENDIENTE — insertar enlace directo al editor en línea con el proyecto precargado.
+- **Empieza a practicar:** https://jsfiddle.net/
 
 ### Lección 6: Consejos y errores comunes (8 minutos)
 - **Descripción:** reconoce y corrige errores frecuentes de principiantes.
 - **Conceptos clave:** etiquetas sin cerrar, atributos incorrectos, enlaces o imágenes no válidos y llaves CSS faltantes.
 - **Actividad:** revisar y corregir un ejemplo sencillo.
 - **Video:** PENDIENTE — insertar URL real del video no listado de YouTube.
-- **Empieza a practicar:** PENDIENTE — insertar enlace directo al editor en línea con el ejercicio precargado.
+- **Empieza a practicar:** https://jsfiddle.net/
 
 ## Recursos adicionales
 
