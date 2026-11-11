@@ -51,7 +51,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de pá
 
 ### Lección 6: Consejos y errores comunes (8 minutos)
 - **Descripción:** Aprende a encontrar y corregir los errores más comunes de principiantes, y descubre dónde seguir aprendiendo.
-- **Enlace:** [Ver la lección](URL_VIDEO_LECCION_6)
+- **Enlace:** [Ver la lección](https://youtu.be/9K_EQx0b0cY)
 - **Consejos clave:** Cierra cada etiqueta que abres, revisa que cada regla CSS tenga sus llaves `{ }` y su punto y coma `;`, y valida tu código en https://validator.w3.org/. Sigue aprendiendo en MDN Web Docs.
 - **Práctica:** [Corrige los errores](https://jsfiddle.net/) 👈 **¡Inicio inmediato!**
 

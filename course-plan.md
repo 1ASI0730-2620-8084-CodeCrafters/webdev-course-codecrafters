@@ -54,7 +54,7 @@ Este curso de aproximadamente una hora introduce a estudiantes de secundaria a l
 - **Descripción:** reconoce y corrige errores frecuentes de principiantes.
 - **Conceptos clave:** etiquetas sin cerrar, atributos incorrectos, enlaces o imágenes no válidos y llaves CSS faltantes.
 - **Actividad:** revisar y corregir un ejemplo sencillo.
-- **Video:** PENDIENTE — insertar URL real del video no listado de YouTube.
+- **Video:** https://youtu.be/9K_EQx0b0cY
 - **Empieza a practicar:** https://jsfiddle.net/
 
 ## Recursos adicionales
