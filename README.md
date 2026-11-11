@@ -27,7 +27,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de pá
 
 ### Lección 2: Tu primera página HTML (10 minutos)
 - **Descripción:** Aprende qué son las etiquetas, los elementos y los atributos, y crea tu primera página con un título y una presentación.
-- **Enlace:** [Ver la lección](URL_VIDEO_LECCION_2)
+- **Enlace:** [Ver la lección](https://youtu.be/7ciLQob0Ebo)
 - **Conclusiones clave:** Toda página tiene la misma base: `<!DOCTYPE html>`, `<html>`, `<head>`, `<title>` y `<body>`. Usa `<h1>` para el título y `<p>` para los párrafos.
 - **Práctica:** [Clic para programar](URL_CODEPEN_LECCION_2) 👈 **¡No necesitas registrarte!**
 

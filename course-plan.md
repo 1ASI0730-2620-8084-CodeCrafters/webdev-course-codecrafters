@@ -26,7 +26,7 @@ Este curso de aproximadamente una hora introduce a estudiantes de secundaria a l
 - **Descripción:** crea la estructura básica de un documento HTML.
 - **Conceptos clave:** `<!DOCTYPE html>`, `html`, `head`, `title`, `body`, `h1` y `p`.
 - **Actividad:** crear una página con un título y una presentación personal.
-- **Video:** PENDIENTE — insertar URL real del video no listado de YouTube.
+- **Video:** https://youtu.be/7ciLQob0Ebo
 - **Empieza a practicar:** PENDIENTE — insertar enlace directo al editor en línea con la práctica precargada.
 
 ### Lección 3: Agrega contenido a tu página (10 minutos)
