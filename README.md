@@ -1,84 +1,25 @@
-# Aplicaciones Web
+# Fundamentos de Desarrollo Web
 
-## Resumen del Curso
+Curso en video de **HTML y CSS para estudiantes de secundaria (12 a 17 años) sin experiencia previa en programación**. Son 6 lecciones cortas, de unos 60 minutos en total, en las que se construye paso a paso una página web personal.
 
-Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sitios web sencillos con HTML y CSS. **¡No requiere descargas!** Solo abre tu navegador web.
+El plan completo del curso, con los enlaces a los videos y a las prácticas, está en **[`course-plan.md`](course-plan.md)**.
 
-**Duración total**: ~60 minutos 
-<br>
-**Público objetivo**: Estudiantes de 12 a 17 años sin experiencia en programación
-<br>
-**Prerrequisitos**: Ninguno
-<br>
-**Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge)
-<br>
-**Repositorio de código fuente**:https://github.com/1ASI0730-2620-8084-CodeCrafters/webdev-course-codecrafters.git
+## Instrucciones de configuración
 
-## Secuencia de la lección
+**No hay que instalar nada.** Solo necesitas un navegador web actualizado (Chrome, Firefox, Safari o Edge) y conexión a internet. Todas las prácticas se hacen en [JSFiddle](https://jsfiddle.net/), un editor en línea y gratuito.
 
-### Lección 1: ¿Qué es el desarrollo web? 
-- **Descripción**: Aprende de qué están hechos los sitios web y por qué HTML y CSS son los componentes básicos.
-- **Enlace**: 
-- **Consejos clave**: Sitios web = Contenido (HTML) + Estilo (CSS).
-- **Empieza a programar**: 
+1. Mira el video de la lección.
+2. Abre el enlace de JSFiddle que aparece en la descripción del video y en [`course-plan.md`](course-plan.md): el código inicial ya está cargado.
+3. Si prefieres empezar desde cero, abre [jsfiddle.net](https://jsfiddle.net/), copia `index.html` de la carpeta `starter-files/lessonN` en el panel **HTML** y, si la lección tiene `styles.css`, cópialo en el panel **CSS**. Pulsa **Ejecutar** (Run) para ver el resultado.
+4. Pausa el video cuando te lo pida y resuelve la práctica antes de seguir.
+5. Si te atascas, compara con la carpeta `completed-examples/lessonN` de esa lección.
 
-### Lección 2: Introducción a HTML 
-- **Descripción**: Explora las etiquetas HTML básicas y crea tu primera página.
-- **Enlace**: 
-- **Consejos clave**: Usa `<html>`, `<head>`, `<body>`, `<h1>`, `<p>`.
-- **Práctica**: 
+Cada lección parte del código con el que termina la anterior, porque todas construyen la misma página.
 
-### Lección 3: Añadir más elementos HTML 
-- **Descripción**: Agrega listas, imágenes y enlaces para que tu página sea interactiva.
-- **Enlace**: 
-- **Consejos clave**: Usa las etiquetas `<ul>`, `<img>`, `<a>`.
-- **Práctica**:
+## Estructura del repositorio
 
-### Lección 4: Introducción a CSS 
-- **Descripción**: Dale estilo a tu HTML con colores, fuentes y diseños.
-- **Enlace**: 
-- **Consejos clave**: Vincular CSS, usar selectores como `body { background-color: blue; }`.
-- **Práctica**:
-
-### Lección 5: Crear una página web sencilla 
-- **Descripción**: Combinar HTML y CSS para crear una página de perfil personal.
-- **Enlace**: 
-- **Consejos clave**: Aplicar estilos y depurar errores.
-- **Proyecto Final**:
-
-### Recomendaciones y Errores comunes para principiantes
-
-## Recursos Adicionales
-
-- **Código Fuente Completo**:
-- **Todas las Actividades Prácticas**:
-
-| Lección # | Actividad           | Empezar a Programar |
-|-----------|---------------------|---------------------|
-| 1         | Explorar sitios web |                     |
-| 2         | Primera página HTML |                     |
-| 3         | Añadir imágenes     |                     |
-| 4         | Estilo de la página |                     |
-| 5         | Página de perfil    |                     |
-
-**¡Gracias por completar el curso!**
-
----
-
-## Elaboración
-
-Universidad Peruana de Ciencias Aplicadas
-Carrera de Ingeniería de Software
-Período 202620
-1ASI0730-AplicacionesWeb-8084
-
-**Nombre del equipo**: CodeCrafters
-
-### Resumen de la elaboración en equipo
-
-| Integrante                   | Rol                                     | Lecciones a cargo         | Aportes principales |
-|------------------------------|-----------------------------------------|---------------------------|---------------------|
-| [Apellidos, Nombres] (Líder) | Coordinación y documentación            | 1                         |                     |
-| [Apellidos, Nombres]         | Contenido HTML                          | 2 y 3                     |                     |
-| [Apellidos, Nombres]         | Contenido CSS y proyecto final          | 4 y 5                     |                     |
-| [Apellidos, Nombres]         | Producción y experiencia del estudiante | Recomendaciones y errores |                     |
+| Carpeta | Contenido |
+|---|---|
+| [`/starter-files`](starter-files) | El código con el que empieza cada lección: una carpeta `lessonN` por lección. |
+| [`/completed-examples`](completed-examples) | El código terminado de cada lección, para comparar tu resultado: una carpeta `lessonN` por lección. |
+| [`/scripts`](scripts) | El guion de cada video: qué se muestra en pantalla, el texto en pantalla y la narración (`lessonN.md`). |
