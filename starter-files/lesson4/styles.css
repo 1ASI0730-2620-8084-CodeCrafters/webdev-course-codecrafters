@@ -1,0 +1,14 @@
+/* Panel CSS de JSFiddle: aquí va la apariencia de la página. */
+/* Cada regla tiene un selector, y entre llaves, propiedades con su valor: selector { propiedad: valor; } */
+
+/* Paso 2: escribe una regla para body con background-color, color y font-family */
+
+/* Paso 3: escribe una regla para h1 que cambie su color y lo centre con text-align: center */
+
+/* Paso 4: escribe una regla para p que cambie el tamaño de letra con font-size */
+
+/* Paso 5: escribe una regla para .card (con punto, porque es una clase) con background-color, max-width, margin: 20px auto, padding, border y border-radius */
+
+/* Paso 6: escribe una regla para img con max-width: 100% y height: auto, para que la imagen quepa en la caja */
+
+/* Paso 7: escribe una regla para a que cambie el color del enlace */
