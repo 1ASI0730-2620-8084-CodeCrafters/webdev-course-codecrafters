@@ -33,12 +33,12 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 - **Práctica**: [Clic para programar en JSFiddle](https://jsfiddle.net/kjaovm80/1/) 👈 **¡No necesitas registrarte!**
 - **Código**: [inicial](https://github.com/1ASI0730-2620-8084-CodeCrafters/webdev-course-codecrafters/tree/main/starter-files/lesson3) · [resuelto](https://github.com/1ASI0730-2620-8084-CodeCrafters/webdev-course-codecrafters/tree/main/completed-examples/lesson3)
 
-### Lección 4: Introducción a CSS y estilos sencillos (12 minutos)
+### Lección 4: Introducción a CSS y estilos sencillos (10 minutos)
 - **Descripción**: Dale estilo a tu página con colores, fuentes, bordes y espacios, y aprende a centrar el contenido.
-- **Enlace**: [Ver la lección](PENDIENTE-youtube-leccion-4)
+- **Enlace**: [Ver la lección](https://youtu.be/MMn6pYd8SSs)
 - **Consejos clave**: Una regla CSS tiene un selector, una propiedad y un valor: `h1 { color: purple; }`. Con `color`, `font-family`, `text-align: center` y `border` cambias el color, la fuente, centras el contenido y agregas bordes. En JSFiddle escribes el CSS en su panel y se aplica solo.
-- **Práctica**: [Clic para aplicar estilo en JSFiddle](PENDIENTE-jsfiddle-leccion-4) 👈 **¡No necesitas registrarte!**
-- **Código**: [inicial](https://github.com/1ASI0730-2620-8084-CodeCrafters/webdev-course-codecrafters/tree/main/starter-files/lesson4) · [resuelto](https://github.com/1ASI0730-2620-8084-CodeCrafters/webdev-course-codecrafters/tree/main/completed-examples/lesson4)
+- **Práctica**: [Clic para aplicar estilo en JSFiddle](https://jsfiddle.net/s0fkh9u2/) 👈 **¡No necesitas registrarte!**
+- **Código**: [inicial](https://github.com/1ASI0730-2620-8084-CodeCrafters/webdev-course-codecrafters/tree/main/starter-files/lesson4) · [resuelto](https://github.com/1ASI0730-2620-8084-CodeCrafters/webdev-course-codecrafters/tree/main/completed-examples/lesson4) · [guion](https://github.com/1ASI0730-2620-8084-CodeCrafters/webdev-course-codecrafters/blob/main/scripts/lesson4.md)
 
 ### Lección 5: Crea tu página de perfil personal (15 minutos)
 - **Descripción**: Junta todo lo aprendido y construye una página de perfil con tu presentación, tus pasatiempos, una imagen y un enlace.
@@ -66,7 +66,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 | 1 | Explorar una página web | [JSFiddle](PENDIENTE-jsfiddle-leccion-1) |
 | 2 | Primera página HTML | [JSFiddle](PENDIENTE-jsfiddle-leccion-2) |
 | 3 | Añadir subtítulos, lista, imagen y enlace | [JSFiddle](PENDIENTE-jsfiddle-leccion-3) |
-| 4 | Estilo de la página | [JSFiddle](PENDIENTE-jsfiddle-leccion-4) |
+| 4 | Estilo de la página | [JSFiddle](https://jsfiddle.net/s0fkh9u2/) |
 | 5 | Página de perfil | [JSFiddle](PENDIENTE-jsfiddle-leccion-5) |
 | 6 | Corregir errores comunes | [JSFiddle](PENDIENTE-jsfiddle-leccion-6) |
 
