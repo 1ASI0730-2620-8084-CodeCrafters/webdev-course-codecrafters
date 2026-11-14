@@ -51,8 +51,8 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 - **Descripción**: Aprende a encontrar y corregir los errores más comunes de principiantes, y descubre dónde seguir aprendiendo.
 - **Enlace**: [Ver la lección](https://youtu.be/9K_EQx0b0cY)
 - **Consejos clave**: Cierra cada etiqueta que abres, revisa que cada regla CSS tenga sus llaves `{ }` y su punto y coma `;`, y valida tu código en [validator.w3.org](https://validator.w3.org/). Sigue aprendiendo en MDN Web Docs.
-- **Práctica**: [Corrige los errores en JSFiddle](PENDIENTE-jsfiddle-leccion-6) 👈 **¡No necesitas registrarte!**
-- **Código**: [inicial](https://github.com/1ASI0730-2620-8084-CodeCrafters/webdev-course-codecrafters/tree/main/starter-files/lesson6) · [resuelto](https://github.com/1ASI0730-2620-8084-CodeCrafters/webdev-course-codecrafters/tree/main/completed-examples/lesson6)
+- **Práctica**: [Corrige los errores en JSFiddle](https://jsfiddle.net/wzxnrpt0/) 👈 **¡No necesitas registrarte!**
+- **Código**: [inicial](https://github.com/1ASI0730-2620-8084-CodeCrafters/webdev-course-codecrafters/tree/main/starter-files/lesson6) · [resuelto](https://github.com/1ASI0730-2620-8084-CodeCrafters/webdev-course-codecrafters/tree/main/completed-examples/lesson6) · [guion](https://github.com/1ASI0730-2620-8084-CodeCrafters/webdev-course-codecrafters/blob/main/scripts/lesson6.md)
 
 ## Recursos Adicionales
 - **Código Fuente Completo**: [Repositorio de GitHub](https://github.com/1ASI0730-2620-8084-CodeCrafters/webdev-course-codecrafters)
@@ -68,7 +68,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 | 3 | Añadir subtítulos, lista, imagen y enlace | [JSFiddle](PENDIENTE-jsfiddle-leccion-3) |
 | 4 | Estilo de la página | [JSFiddle](PENDIENTE-jsfiddle-leccion-4) |
 | 5 | Página de perfil | [JSFiddle](PENDIENTE-jsfiddle-leccion-5) |
-| 6 | Corregir errores comunes | [JSFiddle](PENDIENTE-jsfiddle-leccion-6) |
+| 6 | Corregir errores comunes | [JSFiddle](https://jsfiddle.net/wzxnrpt0/) |
 
 **¡Gracias por completar el curso!**
 
