@@ -40,12 +40,12 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 - **Práctica**: [Clic para aplicar estilo en JSFiddle](PENDIENTE-jsfiddle-leccion-4) 👈 **¡No necesitas registrarte!**
 - **Código**: [inicial](https://github.com/1ASI0730-2620-8084-CodeCrafters/webdev-course-codecrafters/tree/main/starter-files/lesson4) · [resuelto](https://github.com/1ASI0730-2620-8084-CodeCrafters/webdev-course-codecrafters/tree/main/completed-examples/lesson4)
 
-### Lección 5: Crea tu página de perfil personal (15 minutos)
+### Lección 5: Crea tu página de perfil personal (19 minutos, en dos partes)
 - **Descripción**: Junta todo lo aprendido y construye una página de perfil con tu presentación, tus pasatiempos, una imagen y un enlace.
-- **Enlace**: [Ver la lección](PENDIENTE-youtube-leccion-5)
+- **Enlace**: [Parte 1: la estructura con HTML (10 minutos)](https://youtu.be/AaZfvO7KclM) · [Parte 2: el diseño con CSS (9 minutos)](https://youtu.be/F26iCu-69tg)
 - **Consejos clave**: Primero organiza el contenido con HTML y después dale estilo con CSS. Guarda tus cambios y revisa el resultado después de cada paso.
-- **Proyecto Final**: [Crea tu perfil en JSFiddle](PENDIENTE-jsfiddle-leccion-5) 👈 **¡Guarda y comparte!**
-- **Código**: [inicial](https://github.com/1ASI0730-2620-8084-CodeCrafters/webdev-course-codecrafters/tree/main/starter-files/lesson5) · [resuelto](https://github.com/1ASI0730-2620-8084-CodeCrafters/webdev-course-codecrafters/tree/main/completed-examples/lesson5)
+- **Proyecto Final**: [Crea tu perfil en JSFiddle](https://jsfiddle.net/jev21yrg/) 👈 **¡Guarda y comparte!**
+- **Código**: [inicial](https://github.com/1ASI0730-2620-8084-CodeCrafters/webdev-course-codecrafters/tree/main/starter-files/lesson5) · [resuelto](https://github.com/1ASI0730-2620-8084-CodeCrafters/webdev-course-codecrafters/tree/main/completed-examples/lesson5) · [guion](https://github.com/1ASI0730-2620-8084-CodeCrafters/webdev-course-codecrafters/blob/main/scripts/lesson5.md)
 
 ### Lección 6: Consejos y errores comunes (8 minutos)
 - **Descripción**: Aprende a encontrar y corregir los errores más comunes de principiantes, y descubre dónde seguir aprendiendo.
@@ -67,7 +67,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 | 2 | Primera página HTML | [JSFiddle](PENDIENTE-jsfiddle-leccion-2) |
 | 3 | Añadir subtítulos, lista, imagen y enlace | [JSFiddle](PENDIENTE-jsfiddle-leccion-3) |
 | 4 | Estilo de la página | [JSFiddle](PENDIENTE-jsfiddle-leccion-4) |
-| 5 | Página de perfil | [JSFiddle](PENDIENTE-jsfiddle-leccion-5) |
+| 5 | Página de perfil | [JSFiddle](https://jsfiddle.net/jev21yrg/) |
 | 6 | Corregir errores comunes | [JSFiddle](PENDIENTE-jsfiddle-leccion-6) |
 
 **¡Gracias por completar el curso!**
