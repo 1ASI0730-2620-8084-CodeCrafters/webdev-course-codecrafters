@@ -12,11 +12,11 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 ## Secuencia de la lección
 
-### Lección 1: ¿Qué es el desarrollo web? (5 minutos)
+### Lección 1: ¿Qué es el desarrollo web? (6 minutos)
 - **Descripción**: Descubre de qué están hechos los sitios web y por qué HTML y CSS son sus componentes básicos.
-- **Enlace**: [Ver la lección](PENDIENTE-youtube-leccion-1)
+- **Enlace**: [Ver la lección](https://youtu.be/dHD82wlVU_A)
 - **Consejos clave**: Sitios web = Contenido (HTML) + Estilo (CSS). El navegador lee ese código y lo convierte en lo que ves.
-- **Empieza a programar**: [Abrir JSFiddle](PENDIENTE-jsfiddle-leccion-1) 👈 **¡No necesitas registrarte!**
+- **Empieza a programar**: [Abrir JSFiddle](https://jsfiddle.net/pxs7ofrt/) 👈 **¡No necesitas registrarte!**
 - **Código**: [inicial](https://github.com/1ASI0730-2620-8084-CodeCrafters/webdev-course-codecrafters/tree/main/starter-files/lesson1) · [resuelto](https://github.com/1ASI0730-2620-8084-CodeCrafters/webdev-course-codecrafters/tree/main/completed-examples/lesson1) · [guion](https://github.com/1ASI0730-2620-8084-CodeCrafters/webdev-course-codecrafters/blob/main/scripts/lesson1.md)
 
 ### Lección 2: Tu primera página HTML (10 minutos)
@@ -63,7 +63,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 | Lección # | Actividad | Empezar a Programar |
 |-----------|-----------|---------------------|
-| 1 | Explorar una página web | [JSFiddle](PENDIENTE-jsfiddle-leccion-1) |
+| 1 | Explorar una página web | [JSFiddle](https://jsfiddle.net/pxs7ofrt/) |
 | 2 | Primera página HTML | [JSFiddle](PENDIENTE-jsfiddle-leccion-2) |
 | 3 | Añadir subtítulos, lista, imagen y enlace | [JSFiddle](PENDIENTE-jsfiddle-leccion-3) |
 | 4 | Estilo de la página | [JSFiddle](PENDIENTE-jsfiddle-leccion-4) |
