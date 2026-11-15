@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Duración** | 8 minutos |
-| **Empieza a programar** | abre el enlace de JSFiddle de la lección (PENDIENTE), o copia [`starter-files/lesson6/index.html`](../starter-files/lesson6/index.html) en el panel **HTML** y [`starter-files/lesson6/styles.css`](../starter-files/lesson6/styles.css) en el panel **CSS** de JSFiddle y pulsa **Ejecutar** |
+| **Empieza a programar** | abre el [JSFiddle de la lección](https://jsfiddle.net/wzxnrpt0/), o copia [`starter-files/lesson6/index.html`](../starter-files/lesson6/index.html) en el panel **HTML** y [`starter-files/lesson6/styles.css`](../starter-files/lesson6/styles.css) en el panel **CSS** de JSFiddle y pulsa **Ejecutar** |
 | **Solución** | [`completed-examples/lesson6/index.html`](../completed-examples/lesson6/index.html) y [`styles.css`](../completed-examples/lesson6/styles.css) |
 
 ## Qué vas a aprender

@@ -2,8 +2,8 @@
 
 | | |
 |---|---|
-| **Duración** | 5 minutos |
-| **Empieza a programar** | abre el enlace de JSFiddle de la lección (PENDIENTE), o copia [`starter-files/lesson1/index.html`](../starter-files/lesson1/index.html) en el panel **HTML** y [`starter-files/lesson1/styles.css`](../starter-files/lesson1/styles.css) en el panel **CSS** de JSFiddle y pulsa **Ejecutar** |
+| **Duración** | 6 minutos |
+| **Empieza a programar** | abre el [JSFiddle de la lección](https://jsfiddle.net/pxs7ofrt/), o copia [`starter-files/lesson1/index.html`](../starter-files/lesson1/index.html) en el panel **HTML** y [`starter-files/lesson1/styles.css`](../starter-files/lesson1/styles.css) en el panel **CSS** de JSFiddle y pulsa **Ejecutar** |
 | **Solución** | [`completed-examples/lesson1/index.html`](../completed-examples/lesson1/index.html) y [`styles.css`](../completed-examples/lesson1/styles.css) |
 
 ## Qué vas a aprender
