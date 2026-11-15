@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Duración** | 10 minutos |
-| **Empieza a programar** | abre el enlace de JSFiddle de la lección (PENDIENTE), o copia [`starter-files/lesson2/index.html`](../starter-files/lesson2/index.html) en el panel **HTML** de JSFiddle y pulsa **Ejecutar** |
+| **Empieza a programar** | abre el [JSFiddle de la lección](https://jsfiddle.net/qe90hfax/), o copia [`starter-files/lesson2/index.html`](../starter-files/lesson2/index.html) en el panel **HTML** de JSFiddle y pulsa **Ejecutar** |
 | **Solución** | [`completed-examples/lesson2/index.html`](../completed-examples/lesson2/index.html) |
 
 ## Qué vas a aprender
