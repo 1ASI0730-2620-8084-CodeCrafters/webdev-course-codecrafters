@@ -28,9 +28,9 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 ### Lección 3: Agrega contenido a tu página (10 minutos)
 - **Descripción**: Agrega subtítulos, listas, imágenes y enlaces para que tu página tenga más información.
-- **Enlace**: [Ver la lección](PENDIENTE-youtube-leccion-3)
+- **Enlace**: [Ver la lección](https://youtu.be/Lis5hn1RJAk)
 - **Consejos clave**: `<h2>` para subtítulos, `<ul>` y `<li>` para listas, `<img src="..." alt="...">` para imágenes y `<a href="...">` para enlaces. El atributo `alt` describe la imagen para quien no puede verla.
-- **Práctica**: [Clic para programar en JSFiddle](PENDIENTE-jsfiddle-leccion-3) 👈 **¡No necesitas registrarte!**
+- **Práctica**: [Clic para programar en JSFiddle](https://jsfiddle.net/kjaovm80/1/) 👈 **¡No necesitas registrarte!**
 - **Código**: [inicial](https://github.com/1ASI0730-2620-8084-CodeCrafters/webdev-course-codecrafters/tree/main/starter-files/lesson3) · [resuelto](https://github.com/1ASI0730-2620-8084-CodeCrafters/webdev-course-codecrafters/tree/main/completed-examples/lesson3)
 
 ### Lección 4: Introducción a CSS y estilos sencillos (12 minutos)
