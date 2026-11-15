@@ -84,7 +84,7 @@ NRC 8084
 **Nombre del equipo**: CodeCrafters\
 **Líder del equipo**: Angel Gabriel Crispin Valdivia\
 **Integrantes del equipo**: Angel Gabriel Crispin Valdivia · Leonardo Raul Cumba Rengifo · Gerardo Valentin Palacin Lazo · Maria Jose Pezo Castilla\
-**Fecha de entrega**: 13 de noviembre de 2026
+**Fecha de entrega**: 14 de noviembre de 2026
 
 ### Resumen de la elaboración en equipo
 
