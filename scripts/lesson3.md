@@ -2,8 +2,8 @@
 
 | | |
 |---|---|
-| **Duración** | 10 minutos |
-| **Empieza a programar** | abre el enlace de JSFiddle de la lección (PENDIENTE), o copia [`starter-files/lesson3/index.html`](../starter-files/lesson3/index.html) en el panel **HTML** de JSFiddle y pulsa **Ejecutar** |
+| **Duración** | 9 minutos |
+| **Empieza a programar** | abre el [JSFiddle de la lección](https://jsfiddle.net/kjaovm80/1/), o copia [`starter-files/lesson3/index.html`](../starter-files/lesson3/index.html) en el panel **HTML** de JSFiddle y pulsa **Ejecutar** |
 | **Solución** | [`completed-examples/lesson3/index.html`](../completed-examples/lesson3/index.html) |
 
 ## Qué vas a aprender

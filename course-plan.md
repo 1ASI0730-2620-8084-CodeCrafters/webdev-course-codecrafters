@@ -3,10 +3,10 @@
 ## Resumen del Curso
 Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sitios web sencillos con HTML y CSS. A lo largo de las lecciones se construye **una página web personal**: primero su estructura, luego su contenido, después su diseño y, al final, se revisan los errores más comunes. **¡No requiere descargas!** Solo abre tu navegador web.
 
-**Duración total**: ~60 minutos
-**Público objetivo**: Estudiantes de 12 a 17 años sin experiencia en programación
-**Prerrequisitos**: Ninguno
-**Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge). Todas las prácticas se hacen en JSFiddle, un editor en línea y gratuito.
+- **Duración total**: ~60 minutos
+- **Público objetivo**: Estudiantes de 12 a 17 años sin experiencia en programación
+- **Prerrequisitos**: Ninguno
+- **Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge). Todas las prácticas se hacen en JSFiddle, un editor en línea y gratuito.
 
 **📂 Repositorio de código fuente**: [https://github.com/1ASI0730-2620-8084-CodeCrafters/webdev-course-codecrafters](https://github.com/1ASI0730-2620-8084-CodeCrafters/webdev-course-codecrafters)
 
@@ -26,12 +26,12 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 - **Práctica**: [Clic para programar en JSFiddle](PENDIENTE-jsfiddle-leccion-2) 👈 **¡No necesitas registrarte!**
 - **Código**: [inicial](https://github.com/1ASI0730-2620-8084-CodeCrafters/webdev-course-codecrafters/tree/main/starter-files/lesson2) · [resuelto](https://github.com/1ASI0730-2620-8084-CodeCrafters/webdev-course-codecrafters/tree/main/completed-examples/lesson2)
 
-### Lección 3: Agrega contenido a tu página (10 minutos)
+### Lección 3: Agrega contenido a tu página (9 minutos)
 - **Descripción**: Agrega subtítulos, listas, imágenes y enlaces para que tu página tenga más información.
 - **Enlace**: [Ver la lección](https://youtu.be/Lis5hn1RJAk)
 - **Consejos clave**: `<h2>` para subtítulos, `<ul>` y `<li>` para listas, `<img src="..." alt="...">` para imágenes y `<a href="...">` para enlaces. El atributo `alt` describe la imagen para quien no puede verla.
 - **Práctica**: [Clic para programar en JSFiddle](https://jsfiddle.net/kjaovm80/1/) 👈 **¡No necesitas registrarte!**
-- **Código**: [inicial](https://github.com/1ASI0730-2620-8084-CodeCrafters/webdev-course-codecrafters/tree/main/starter-files/lesson3) · [resuelto](https://github.com/1ASI0730-2620-8084-CodeCrafters/webdev-course-codecrafters/tree/main/completed-examples/lesson3)
+- **Código**: [inicial](https://github.com/1ASI0730-2620-8084-CodeCrafters/webdev-course-codecrafters/tree/main/starter-files/lesson3) · [resuelto](https://github.com/1ASI0730-2620-8084-CodeCrafters/webdev-course-codecrafters/tree/main/completed-examples/lesson3) · [guion](https://github.com/1ASI0730-2620-8084-CodeCrafters/webdev-course-codecrafters/blob/main/scripts/lesson3.md)
 
 ### Lección 4: Introducción a CSS y estilos sencillos (12 minutos)
 - **Descripción**: Dale estilo a tu página con colores, fuentes, bordes y espacios, y aprende a centrar el contenido.
@@ -65,7 +65,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 |-----------|-----------|---------------------|
 | 1 | Explorar una página web | [JSFiddle](PENDIENTE-jsfiddle-leccion-1) |
 | 2 | Primera página HTML | [JSFiddle](PENDIENTE-jsfiddle-leccion-2) |
-| 3 | Añadir subtítulos, lista, imagen y enlace | [JSFiddle](PENDIENTE-jsfiddle-leccion-3) |
+| 3 | Añadir subtítulos, lista, imagen y enlace | [JSFiddle](https://jsfiddle.net/kjaovm80/1/) |
 | 4 | Estilo de la página | [JSFiddle](PENDIENTE-jsfiddle-leccion-4) |
 | 5 | Página de perfil | [JSFiddle](PENDIENTE-jsfiddle-leccion-5) |
 | 6 | Corregir errores comunes | [JSFiddle](PENDIENTE-jsfiddle-leccion-6) |
@@ -75,15 +75,15 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 ---
 
 ## 👥 Elaboración
-Universidad Peruana de Ciencias Aplicadas
-Carrera de Ingeniería de Software
-Período 202620
-1ASI0730 Aplicaciones Web
+Universidad Peruana de Ciencias Aplicadas\
+Carrera de Ingeniería de Software\
+Período 202620\
+1ASI0730 Aplicaciones Web\
 NRC 8084
 
-**Nombre del equipo**: CodeCrafters
-**Líder del equipo**: Angel Gabriel Crispin Valdivia
-**Integrantes del equipo**: Angel Gabriel Crispin Valdivia · Leonardo Raul Cumba Rengifo · Gerardo Valentin Palacin Lazo · Maria Jose Pezo Castilla
+**Nombre del equipo**: CodeCrafters\
+**Líder del equipo**: Angel Gabriel Crispin Valdivia\
+**Integrantes del equipo**: Angel Gabriel Crispin Valdivia · Leonardo Raul Cumba Rengifo · Gerardo Valentin Palacin Lazo · Maria Jose Pezo Castilla\
 **Fecha de entrega**: 13 de noviembre de 2026
 
 ### Resumen de la elaboración en equipo
